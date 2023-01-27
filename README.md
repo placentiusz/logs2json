@@ -1,2 +1,2 @@
 # logs2json
-Import txt files to json file
+Import txt files to json file.
